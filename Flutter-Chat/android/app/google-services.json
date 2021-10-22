@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881013465495",
+    "project_id": "chat-d785e",
+    "storage_bucket": "chat-d785e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881013465495:android:6311077c9ac01995abe4d2",
+        "android_client_info": {
+          "package_name": "com.jafrin.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881013465495-o1ssiicsohbiijq64bmiqrpp3mgo7a9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEfdwAfxxvkQ-0NlQywuxH2qmd3nco8Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881013465495-o1ssiicsohbiijq64bmiqrpp3mgo7a9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
